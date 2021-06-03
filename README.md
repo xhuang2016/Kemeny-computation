@@ -42,8 +42,8 @@ We use 13 real-world undirected network datasets from
 ## Algorithms
 
 You can choose between the following algorithms: 
-* 1. Vanilla MC algorithm
-* 2. Dynamic MC algorithm
+* Vanilla MC algorithm
+* Dynamic MC algorithm
 
 ## Running the code
 1. Download the data as described above.
