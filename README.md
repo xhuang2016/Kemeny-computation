@@ -50,10 +50,13 @@ We use 13 real-world undirected network datasets:
 |Youtube| 1134890 | 2987624 |
 |Skitter| 1694616 | 11094209 |
 
+The datasets are downloaded form:
 1. [SNAP](http://snap.stanford.edu/data/index.html)
 2. [Network Repository](http://networkrepository.com/)
 
-> Note: You can also use your own network datasets.
+> Note: 
+> 1. The statistics shown above are for the largest strongly connected components (LSCC) of graphs.
+> 2. You can also use your own network datasets.
 
 ## Algorithms
 
