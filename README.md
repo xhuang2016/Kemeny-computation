@@ -33,7 +33,23 @@ In addition, [CUDA 10.1](https://developer.nvidia.com/cuda-10.1-download-archive
 
 
 ## Dataset
-We use 13 real-world undirected network datasets from
+We use 13 real-world undirected network datasets:
+| |# Nodes (n) | # Edges (m) | 
+| ---------- | :-----------:  | :-----------: |
+|HEP-TH| 8638 | 24806 |
+|Astro-ph| 17903 | 196972 |
+|CAIDA| 26475 | 53381 |
+|EmailEnron| 33696 | 180811 |
+|Brightkite| 56739 | 212945 |
+|wiki-Talk| 92117 | 360767 |
+|Gowalla| 196591 | 950327 |
+|com-DBLP| 317080 | 1049866 |
+|Amazon| 334863 | 925872 |
+|soc-flickr| 513969 | 3190452 |
+|soc-digg| 770799 | 5907132 |
+|Youtube| 1134890 | 2987624 |
+|Skitter| 1694616 | 11094209 |
+
 1. [SNAP](http://snap.stanford.edu/data/index.html)
 2. [Network Repository](http://networkrepository.com/)
 
