@@ -70,7 +70,7 @@ You can choose between the following algorithms:
 3. Run ```Code/Dynamic_MC.py``` to compute Kemeny's Constant by dynamic MC algorithm.
 
 > Note:
-> 1. To reproduce our results, please download the same set of data as we used in the paper.  
+> 1. To reproduce our results, please download the same datasets as used in our paper.  
 > 2. For different test cases, please change the settings as described in each code file.
 
 <!---## Cite--> 
