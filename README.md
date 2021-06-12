@@ -34,7 +34,7 @@ In addition, [CUDA 10.1](https://developer.nvidia.com/cuda-10.1-download-archive
 
 ## Dataset
 We use 13 real-world undirected network datasets:
-| |# Nodes (n) | # Edges (m) | 
+| | Number of Nodes | Number of Edges | 
 | ---------- | :-----------:  | :-----------: |
 |HEP-TH| 8638 | 24806 |
 |Astro-ph| 17903 | 196972 |
