@@ -12,6 +12,7 @@ The repository is organised as follows:
 * ```requirements.txt```: All required Python libraries to run the code.
 * ```Code/Vanilla_MC.py```: GPU implementation of vanilla MC algorithm.
 * ```Code/Dynamic_MC.py```: GPU implementation of dynamic MC algorithm.
+* ```data/```: Some datasets used in our work.
 
 
 ## Requirements
