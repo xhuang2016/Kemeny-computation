@@ -51,7 +51,7 @@ We use 13 real-world undirected network datasets:
 |Youtube| 1,134,890 | 2,987,624 |
 |Skitter| 1,694,616 | 11,094,209 |
 
-The datasets are downloaded form:
+The datasets are downloaded from:
 1. [SNAP](http://snap.stanford.edu/data/index.html)
 2. [Network Repository](http://networkrepository.com/)
 
